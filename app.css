@@ -1,0 +1,140 @@
+body {
+    background-color: #232323;
+    margin: 0;
+    font-family: "Montserrat", "Avenir"
+}
+
+.brick {
+	width: 17%;
+	background: rgb(190, 190, 36);
+	padding-bottom: 17%;
+	float: left;
+	margin: 1.5%;
+	border-radius: 15%;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+
+#container {
+	margin: 20px auto;
+	max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    line-height: 1.1;
+    font-weight: normal;
+    color: white;
+    background: steelblue;
+    margin: 0;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
+
+#stripe {
+    background: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+}
+
+.selected {
+	color: white;
+	background: steelblue;
+}
+
+button {
+    border: none;
+    background: none;
+    text-transform: uppercase;
+    height: 100%;
+    font-weight: 700;
+    color: steelblue;
+    letter-spacing: 1px;
+    font-size: inherit;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    outline: none;
+    padding: 1px 3px 2px;
+}
+
+button:hover {
+    color: white;
+    background: steelblue;
+}
+
+.Albert {
+    background: url("pics/Albert.png");
+    background-size: cover;
+
+}
+.Spiderman {
+    background: url("pics/Spiderman.jpg");
+    background-size: cover;
+}
+.Bello {
+    background: url("pics/Bello.png");
+    background-size: cover;
+}
+.BlixtenMcQueen {
+    background: url("pics/BlixtenMcQueen.jpeg");
+    background-size: cover; 
+}
+.BrandmanSam {
+    background: url("pics/BrandmanSam.jpg");
+    background-size: cover;
+}
+.RobotTrainsAlf {
+    background: url("pics/RobotTrainsAlf.jpg");
+    background-size: cover;
+}
+.Jet {
+    background: url("pics/Jet.png");
+    background-size: cover;
+}
+.Jocke {
+    background: url("pics/Jocke.jpg");
+    background-size: cover;
+}
+.Kaja {
+    background: url("pics/Kaja.png");
+    background-size: cover;
+}
+.RobotTrainsKay {
+    background: url("pics/RobotTrainsKay.jpg");
+    background-size: cover;
+}
+.Rekku {
+    background: url("pics/Rekku.jpeg");
+    background-size: cover;
+}
+.Riku {
+    background: url("pics/Riku.jpeg");
+    background-size: cover;
+}
+.Rolle {
+    background: url("pics/Rolle.png");
+    background-size: cover;
+}
+.Samppa {
+    background: url("pics/Samppa.jpg");
+    background-size: cover;
+}
+.RobotTrainsViktor {
+    background: url("pics/RobotTrainsViktor.png");
+    background-size: cover;
+}
+.Toma {
+    background: url("pics/Toma.jpg");
+    background-size: cover;
+}
+.Vainu {
+    background: url("pics/Vainu.jpeg");
+    background-size: cover;
+}
+.Zebra {
+    background: url("pics/Zebra.png");
+    background-size: cover;
+}
